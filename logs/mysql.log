@@ -1,0 +1,1480 @@
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 9
+Запит - 
+        SELECT * FROM `gooqds`
+        WHERE `id` = 3
+        LIMIT 1
+        
+Помилка mysqli - Table 'main.gooqds' doesn't exist
+
+
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 9
+Запит - 
+        SELECT * FROM `gooqds`
+        WHERE `id` = 3
+        LIMIT 1
+        
+Помилка mysqli - Table 'main.gooqds' doesn't exist
+
+
+Дата - 2016-09-17T18:18:16+02:00
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 9
+Запит - 
+        SELECT * FROM `gooqds`
+        WHERE `id` = 3
+        LIMIT 1
+        
+Помилка mysqli - Table 'main.gooqds' doesn't exist
+
+
+Дата - 17:09:16 - 18:23:32
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 9
+Запит - 
+        SELECT * FROM `gooqds`
+        WHERE `id` = 3
+        LIMIT 1
+        
+Помилка mysqli - Table 'main.gooqds' doesn't exist
+
+
+Дата - 10:10:16 - 21:37:16
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '
+
+Дата - 10:10:16 - 21:46:21
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '
+
+Дата - 10:10:16 - 21:47:09
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '
+
+Дата - 10:10:16 - 21:49:54
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = 'hs(
+
+Дата - 10:10:16 - 21:50:35
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = hs('
+
+Дата - 10:10:16 - 21:59:23
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '&lt;b',
+        `password` = ''',
+        `about` = '&gt;ha&lt;/b&gt;'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ha&lt;/b&gt;'' at line 3
+
+
+Дата - 10:10:16 - 22:01:54
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '&lt;b',
+        `password` = ''',
+        `about` = '&gt;ha&lt;/b&gt;'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата - 10:10:16 - 22:06:15<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18<br>
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '&lt;b',
+        `password` = ''',
+        `about` = '&gt;ha&lt;/b&gt;'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:27:11
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '&lt;b',
+        `password` = ''',
+        `about` = '&gt;ha&lt;/b&gt;'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата - 10:10:16 - 22:29:42<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18<br>
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:36:35<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18<br>
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+Дата - 10:10:16 - 22:41:47<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:43:52<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:46:04<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:47:03<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:48:52<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:49:03<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:49:38<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 10:10:16 - 22:52:59<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 12:10:16 - 09:26:54<br>
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php<br>
+Рядок - 18<br>
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '&lt;b',
+        `password` = ''',
+        `about` = '&gt;ha&lt;/b&gt;'
+        <br>
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3<br>
+
+
+Дата - 12:10:16 - 09:28:00
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '&lt;b',
+        `password` = ''',
+        `about` = '&gt;ha&lt;/b&gt;'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата - 12:10:16 - 09:29:26
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата - 12:10:16 - 09:30:30
+Помилка файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата/час - 12:10:16 - 09:31:24
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата/час - 12:10:16 - 21:14:32
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата/час - 13:10:16 - 14:33:02
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\goods\show.php
+Рядок - 18
+Запит - 
+        INSERT INTO `users` SET
+        `login` = '<b',
+        `password` = ''',
+        `about` = '>ha</b>'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/b>'' at line 3
+
+
+Дата/час - 25:10:16 - 12:57:23
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\cab\registration.php
+Рядок - 50
+Запит - 
+            INSERT INTO `users` SET
+            `login`    = 'lola',
+            `password` = 'DIgXT45ZgnJR.',
+            `email`    = 'lola@i.ua',
+            `age`      = 12,
+            `hash`     = DIzfS5zfJ2/2Y
+        
+Помилка mysqli - Unknown column 'DIzfS5zfJ2' in 'field list'
+
+
+Дата/час - 02:01:17 - 11:54:10
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\news\main.php
+Рядок - 15
+Запит - 
+            DELETE FROM `news`
+            WHERE `id` IN ()
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+
+
+Дата/час - 02:01:17 - 12:03:00
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\news\main.php
+Рядок - 16
+Запит - 
+                DELETE FROM `news`
+                WHERE `id` IN ()
+            
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+
+
+Дата/час - 02:01:17 - 12:04:15
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\news\main.php
+Рядок - 16
+Запит - 
+                DELETE FROM `news`
+                WHERE `id` IN ()
+            
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+
+
+Дата/час - 02:01:17 - 12:04:21
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\news\main.php
+Рядок - 16
+Запит - 
+                DELETE FROM `news`
+                WHERE `id` IN ()
+            
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+
+
+Дата/час - 02:01:17 - 12:05:31
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\news\main.php
+Рядок - 16
+Запит - 
+                DELETE FROM `news`
+                WHERE `id` IN ()
+            
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+
+
+Дата/час - 02:01:17 - 12:08:27
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\news\main.php
+Рядок - 16
+Запит - 
+                DELETE FROM `news`
+                WHERE `id` IN ()
+            
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+
+
+Дата/час - 02:01:17 - 14:15:51
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\default.php
+Рядок - 129
+Запит - 
+        SHOW COLUMNS FROM `
+        SHOW COLUMNS FROM `users`
+        WHERE FIELD='active'
+        `
+        WHERE FIELD=''
+        
+Помилка mysqli - Incorrect table name '
+        SHOW COLUMNS FROM '
+
+
+Дата/час - 02:01:17 - 14:29:06
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\default.php
+Рядок - 129
+Запит - 
+        SHOW COLUMNS FROM `
+        SHOW COLUMNS FROM `users`
+        WHERE FIELD='active'
+        `
+        WHERE FIELD=''
+        
+Помилка mysqli - Incorrect table name '
+        SHOW COLUMNS FROM '
+
+
+Дата/час - 12:01:17 - 18:22:45
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\allpages.php
+Рядок - 10
+Запит - 
+        SELECT * 
+        FROM `users`
+        WHERE `id`  = 65
+        AND `login` = test1
+        LIMIT 1
+    
+Помилка mysqli - Unknown column 'test1' in 'where clause'
+
+
+Дата/час - 20:05:17 - 07:35:25
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\profile\main.php
+Рядок - 45
+Запит - 
+                UPDATE `users` SET
+                `img`      = '20170520-073513img37309.jpg',
+                WHERE `id` = '56'
+            
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id` = '56'' at line 3
+
+
+Дата/час - 10:07:17 - 12:57:11
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\goods\main.php
+Рядок - 6
+Запит - 
+    SELECT * FROM `goods`
+    ORDER BY `code`
+
+Помилка mysqli - Table 'main.goods' doesn't exist in engine
+
+
+Дата/час - 08:08:17 - 14:17:18
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\goods\edit.php
+Рядок - 100
+Запит - 
+            UPDATE `goods` SET
+            `code`          = '221263',
+            `category`      = 'Телефони',
+            `date`          = NOW(),
+            `header`        = 'Xiaomi Redmi 3S Pro 32GB Grey (украинская версия)',
+            `availability`  = 'Відсутній',
+            `description`   = 'Больше чем смартфон \r\nXiaomi Redmi 3S Pro – это больше чем смартфон. За стильным и изящным корпусом скрывается мощное техническое оснащение, которое обеспечит четкую, быструю и мощную работу. С таким телефоном в кармане вы будете чувствовать себя уверенно в любой ситуации, ведь благодаря наличию второй SIM-карты, вы сможете в любом месте, подключатся и использовать 3G интернет, оставаясь всегда на связи. \r\nКонкурент флагманам \r\nСмартфон Xiaomi Redmi 3S Pro – настоящий конкурент даже флагманам. Модель имеет сканер отпечатков пальца, который позволит надежно защитить важную личную информацию, хранящуюся в смартфоне. А 13-мегапиксельная основная камера с фазовым автофокусом, позволит снимать в HDR качестве. Интересным стало решение и лотков для SIM-карт – один для micro SIM, а второй для Nano SIM. \r\nМощные характеристики \r\nСмартфон Xiaomi Redmi 3S Pro оснащен восьмиядерным процессором Qualcomm Shapdragon 430 и графическим ускорителем Adreno 505, что сделает работу более быстрой, а изображение – четким и «живым». Модель имеет 3 Гб оперативной памяти и 32 Гб встроенной, а также возможность установки карты памяти типа micro SD. Купить Xiaomi Redmi 3S Pro 32GB Grey (украинская версия) вы можете, оформив заказ у нас на сайте, а также по телефону горячей линии 0-800-300-100.\r\n',
+            `delivery`      = 'Доставка по Украине: Запорожье, Днепропетровск, Николаев, Житомир, Харьков, Черновцы, Одесса, Ровно, Полтава, Черкассы, Кировоград, Херсон, Ивано-Франковск, Винница, Киев и другие города Украины.\r\n',
+            `warranty`      = 'Гарантийный срок:	12 месяцев \r\nОбмен и возврат товара:	Обмен/возврат в течение 14 дней после покупки \r\nДополнительно:	Характеристики и комплектация товара могут быть изменены производителем без уведомления.',
+            `price`         = 3999,
+            `img`           = '20170808-141658img23985.jpg',
+            WHERE `id`      = 14
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id`      = 14' at line 12
+
+
+Дата/час - 08:08:17 - 14:18:52
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\goods\edit.php
+Рядок - 100
+Запит - 
+            UPDATE `goods` SET
+            `code`          = '221263',
+            `category`      = 'Телефони',
+            `date`          = NOW(),
+            `header`        = 'Xiaomi Redmi 3S Pro 32GB Grey (украинская версия)',
+            `availability`  = 'Відсутній',
+            `description`   = 'Больше чем смартфон \r\nXiaomi Redmi 3S Pro – это больше чем смартфон. За стильным и изящным корпусом скрывается мощное техническое оснащение, которое обеспечит четкую, быструю и мощную работу. С таким телефоном в кармане вы будете чувствовать себя уверенно в любой ситуации, ведь благодаря наличию второй SIM-карты, вы сможете в любом месте, подключатся и использовать 3G интернет, оставаясь всегда на связи. \r\nКонкурент флагманам \r\nСмартфон Xiaomi Redmi 3S Pro – настоящий конкурент даже флагманам. Модель имеет сканер отпечатков пальца, который позволит надежно защитить важную личную информацию, хранящуюся в смартфоне. А 13-мегапиксельная основная камера с фазовым автофокусом, позволит снимать в HDR качестве. Интересным стало решение и лотков для SIM-карт – один для micro SIM, а второй для Nano SIM. \r\nМощные характеристики \r\nСмартфон Xiaomi Redmi 3S Pro оснащен восьмиядерным процессором Qualcomm Shapdragon 430 и графическим ускорителем Adreno 505, что сделает работу более быстрой, а изображение – четким и «живым». Модель имеет 3 Гб оперативной памяти и 32 Гб встроенной, а также возможность установки карты памяти типа micro SD. Купить Xiaomi Redmi 3S Pro 32GB Grey (украинская версия) вы можете, оформив заказ у нас на сайте, а также по телефону горячей линии 0-800-300-100.\r\n',
+            `delivery`      = 'Доставка по Украине: Запорожье, Днепропетровск, Николаев, Житомир, Харьков, Черновцы, Одесса, Ровно, Полтава, Черкассы, Кировоград, Херсон, Ивано-Франковск, Винница, Киев и другие города Украины.\r\n',
+            `warranty`      = 'Гарантийный срок:	12 месяцев \r\nОбмен и возврат товара:	Обмен/возврат в течение 14 дней после покупки \r\nДополнительно:	Характеристики и комплектация товара могут быть изменены производителем без уведомления.',
+            `price`         = 3999,
+            `img`           = '20170808-141658img23985.jpg',
+            WHERE `id`      = 14
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id`      = 14' at line 12
+
+
+Дата/час - 08:08:17 - 14:22:27
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\goods\edit.php
+Рядок - 100
+Запит - 
+            UPDATE `goods` SET
+            `code`          = '184715',
+            `category`      = 'Телефони',
+            `date`          = NOW(),
+            `header`        = 'Samsung G935F Galaxy S7 Edge 32GB (Gold)',
+            `availability`  = 'Відсутній',
+            `description`   = 'В тонком (7,7 мм), слегка изогнутом корпусе сочетаются металл и прочное закаленное стекло – Gorilla Glass 4 покрывает заднюю и переднюю панели, рамка изготовлена из алюминия. 76,1% фронтальной панели занимает экран, рамки по бокам дисплея минимальны. Вес новинки составляет всего 152 г, доступны 3 оттенка: черный, золотистый и серебристый.\r\nВ отличие от меньшей 5,1-дюймовой модели Samsung Galaxy S7, версия «Edge» оснащена дисплеем 5,5 дюймов с разрешением 2560×1440 точек. Super AMOLED-экран покрыт защитным Corning Gorilla Glass 4. Благодаря технологии «Always On Display» экран отображает время, новые уведомления и другую информацию даже на заблокированном смартфоне. Если гаджет лежит дисплеем вниз или, например, батарея почти разряжена, функция отключается автоматически\r\nБлагодаря 4 Гб оперативной памяти, процессору Exynos 8 Octa (на 30% мощнее предыдущей версии) и новому графическому ускорителю Mali-T880 новинка работает быстро и плавно. Независимо от того, запускаете вы ресурсоемкое приложение или отправляете потоковое видео, Samsung Galaxy S7 Edge реагирует мгновенно!\r\nВ смартфоне установлено два фотомодуля – основной (12 Мп) и фронтальный (5 Мп). У пользователей появилась возможность снимать видеоролики 4K (Ultra HD), делать потрясающие селфи и фотографировать при любом освещении. Благодаря новому объективу увеличенной светосилы F1.7 (захватывает больше света по сравнению с предшествующими версиями) и технологии Dual Pixel (каждый пиксель фотоматрицы теперь имеет по 2 фотодиода) снимки выходят четкими и детализированными.\r\nВпервые бренд запускает смартфон с поддержкой специального интерфейса для графических приложений Vulkan API. На Samsung Galaxy S7 Edge запускаются игры с самой современной графикой, при этом смартфон не перегревается, а заряд расходуется экономнее. Предусмотрен комплекс полезных функций для управления играми Game tools (в частности, он позволяет делать скриншоты во время игры), а также центр управления Game launcher (собирайте игры в одном месте или используйте режим экономного энергопотребления)\r\nИспользуя Galaxy S7 Edge, можно снимать в бассейне или под дождем. Аппарату присвоена степень защиты IP68 – «начинка» надежно защищена от влаги и пыли. При этом на портах и разъемах заглушек нет.\r\n',
+            `delivery`      = 'Доставка по Украине: Запорожье, Днепропетровск, Николаев, Житомир, Харьков, Черновцы, Одесса, Ровно, Полтава, Черкассы, Кировоград, Херсон, Ивано-Франковск, Винница, Киев и другие города Украины.\r\n',
+            `warranty`      = 'Гарантийный срок:	12 месяцев \r\nОбмен и возврат товара:	Обмен/возврат в течение 14 дней после покупки Дополнительно:	\r\nХарактеристики и комплектация товара могут быть изменены производителем без уведомления.\r\n',
+            `price`         = 22999,
+            `img`           = '20170808-142222img32711.jpg',
+            WHERE `id`      = 23
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id`      = 23' at line 12
+
+
+Дата/час - 27:10:17 - 13:36:18
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 87
+Запит - 
+            INSERT INTO `books2authors` SET
+            `id_book`    = '0',
+            `id_authors` = ''
+        
+Помилка mysqli - 
+
+
+Дата/час - 27:10:17 - 13:36:39
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 87
+Запит - 
+            INSERT INTO `books2authors` SET
+            `id_book`    = '0',
+            `id_authors` = '4'
+        
+Помилка mysqli - 
+
+
+Дата/час - 27:10:17 - 13:37:23
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 87
+Запит - 
+            INSERT INTO `books2authors` SET
+            `id_book`    = '0',
+            `id_authors` = '4'
+        
+Помилка mysqli - 
+
+
+Дата/час - 27:10:17 - 15:24:30
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 91
+Запит - 
+                INSERT INTO `books2authors` SET
+                `id_book`    = '23',
+                `id_author` = '0'
+            
+Помилка mysqli - Duplicate entry '0-23' for key 'PRIMARY'
+
+
+Дата/час - 27:10:17 - 15:27:07
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 91
+Запит - 
+                INSERT INTO `books2authors` SET
+                `id_book`    = '2',
+                `id_author` = '0'
+            
+Помилка mysqli - Duplicate entry '0-2' for key 'PRIMARY'
+
+
+Дата/час - 27:10:17 - 15:28:23
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 91
+Запит - 
+                INSERT INTO `books2authors` SET
+                `id_book`    = '1',
+                `id_author` = '0'
+            
+Помилка mysqli - Duplicate entry '0-1' for key 'PRIMARY'
+
+
+Дата/час - 27:10:17 - 16:10:30
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\show.php
+Рядок - 25
+Запит - 
+        SELECT `id_author`
+        FROM `books2author`
+        WHERE `id_book` = 32
+    
+Помилка mysqli - Table 'main.books2author' doesn't exist
+
+
+Дата/час - 29:10:17 - 06:47:28
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 124
+Запит - 
+                INSERT INTO `books2authors` SET
+                `id_book`   = 0,
+                `id_author` = 4
+            
+Помилка mysqli - Duplicate entry '4-0' for key 'PRIMARY'
+
+
+Дата/час - 29:10:17 - 06:54:57
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 131
+Запит - 
+                    INSERT INTO `books2authors` SET
+                    `id_book`   = 0,
+                    `id_author` = 4
+                
+Помилка mysqli - Duplicate entry '4-0' for key 'PRIMARY'
+
+
+Дата/час - 29:10:17 - 06:55:42
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 131
+Запит - 
+                    INSERT INTO `books2authors` SET
+                    `id_book`   = 0,
+                    `id_author` = 4
+                
+Помилка mysqli - Duplicate entry '4-0' for key 'PRIMARY'
+
+
+Дата/час - 29:10:17 - 06:56:13
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 131
+Запит - 
+                    INSERT INTO `books2authors` SET
+                    `id_book`   = 0,
+                    `id_author` = 4
+                
+Помилка mysqli - Duplicate entry '4-0' for key 'PRIMARY'
+
+
+Дата/час - 29:10:17 - 07:29:34
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 124
+Запит - 
+                INSERT INTO `books2authors` SET
+                `id_book`   = 0,
+                `id_author` = 4
+            
+Помилка mysqli - Duplicate entry '4-0' for key 'PRIMARY'
+
+
+Дата/час - 29:10:17 - 07:31:02
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 124
+Запит - 
+                INSERT INTO `books2authors` SET
+                `id_book`   = 0,
+                `id_author` = 4
+            
+Помилка mysqli - Duplicate entry '4-0' for key 'PRIMARY'
+
+
+Дата/час - 29:10:17 - 07:40:21
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 129
+Запит - 
+                DELETE FROM `books2authors`
+                WHERE `id_author` IN ()
+            
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+
+
+Дата/час - 29:10:17 - 07:54:40
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\edit.php
+Рядок - 129
+Запит - 
+                INSERT INTO `books2authors` SET
+                `id_book`   = 0,
+                `id_author` = 4
+            
+Помилка mysqli - Duplicate entry '4-0' for key 'PRIMARY'
+
+
+Дата/час - 31:10:17 - 09:53:46
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\news\main.php
+Рядок - 24
+Запит - 
+    SELECT count(*) \
+    FROM `news`
+
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '\
+    FROM `news`' at line 1
+
+
+Дата/час - 31:10:17 - 19:29:19
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\news\main.php
+Рядок - 35
+Запит - 
+        SELECT * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT -5, 5
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-5, 5' at line 3
+
+
+Дата/час - 14:11:17 - 22:05:34
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\news\main.php
+Рядок - 18
+Запит - 
+    SELECT `name`
+    FROM `news_cat`
+
+Помилка mysqli - Table 'main.news_cat' doesn't exist
+
+
+Дата/час - 15:11:17 - 18:43:58
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\news\main.php
+Рядок - 18
+Запит - 
+    SELECT `name`
+    FROM `news_cat`
+
+Помилка mysqli - Table 'main.news_cat' doesn't exist
+
+
+Дата/час - 15:11:17 - 18:58:37
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\news\main.php
+Рядок - 18
+Запит - 
+    SELECT `name`
+    FROM `news_cat`
+
+Помилка mysqli - Table 'main.news_cat' doesn't exist
+
+
+Дата/час - 15:11:17 - 18:58:53
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\news\main.php
+Рядок - 18
+Запит - 
+    SELECT `name`
+    FROM `news_cat`
+
+Помилка mysqli - Table 'main.news_cat' doesn't exist
+
+
+Дата/час - 16:11:17 - 06:16:33
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\news\main.php
+Рядок - 18
+Запит - 
+    SELECT `name`
+    FROM `news_cat`
+
+Помилка mysqli - Table 'main.news_cat' doesn't exist
+
+
+Дата/час - 10:03:18 - 15:08:24
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 10:03:18 - 15:12:14
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 10:03:18 - 15:12:17
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 10:03:18 - 15:12:33
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 10:03:18 - 15:15:49
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 10:03:18 - 15:17:04
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:07:27
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:07:45
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:09:23
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:09:37
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:09:48
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:10:17
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:10:34
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:10:44
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:11:31
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:13:41
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 11:03:18 - 07:24:28
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\news\main.php
+Рядок - 28
+Запит - 
+        SELECT `id`
+        FROM `news_cat`
+        WHERE `cat` = 'Наука і техніка'
+    
+Помилка mysqli - Unknown column 'cat' in 'where clause'
+
+
+Дата/час - 11:03:18 - 09:57:03
+Помилка у файлі - C:\xampp\htdocs\site1.local\libs\class_Pagination.php
+Рядок - 22
+Запит - SELECT SQL_CALC_FOUND_ROWS * FROM `news`
+        ORDER BY `id` DESC
+        LIMIT , 
+     LIMIT 0,2
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+     LIMIT 0,2' at line 3
+
+
+Дата/час - 17:03:18 - 12:47:37
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 21
+Запит - 
+        SELECT `id_author`
+        FROM `books2authors`
+        WHERE `id_book` IN (implode(',', Array))
+    
+Помилка mysqli - FUNCTION main.implode does not exist
+
+
+Дата/час - 17:03:18 - 13:32:48
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 24
+Запит - 
+        SELECT `id_author`
+        FROM `books2authors`
+        WHERE `id_book` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 17:03:18 - 18:35:14
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 44
+Запит - NO LIKE
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'NO LIKE' at line 1
+
+
+Дата/час - 17:03:18 - 18:35:31
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 44
+Запит - 
+Помилка mysqli - 
+
+
+Дата/час - 17:03:18 - 18:35:51
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 44
+Запит - 
+    SELECT *
+    FROM `books` WHERE `name` LIKE '%".es($_POST['searchBook'])."%'
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'searchBook'])."%'' at line 2
+
+
+Дата/час - 17:03:18 - 18:42:55
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 44
+Запит - 
+    SELECT *
+    FROM `books` WHERE `name` LIKE '%".es($_POST['searchBook'])."%'
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'searchBook'])."%'' at line 2
+
+
+Дата/час - 18:03:18 - 14:03:52
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 65
+Запит - 
+        SELECT `id_author`
+        FROM `books2authors`
+        WHERE `id_book` IN (1 2 3 4 8 24 )
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2 3 4 8 24 )' at line 3
+
+
+Дата/час - 18:03:18 - 14:05:19
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 65
+Запит - 
+        SELECT `id_author`
+        FROM `books2authors`
+        WHERE `id_book` IN (1 2 3 4 8 24 )
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2 3 4 8 24 )' at line 3
+
+
+Дата/час - 18:03:18 - 14:06:08
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 65
+Запит - 
+        SELECT `id_author`
+        FROM `books2authors`
+        WHERE `id_book` IN (1 2 3 4 8 24 )
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2 3 4 8 24 )' at line 3
+
+
+Дата/час - 18:03:18 - 14:07:46
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 65
+Запит - 
+        SELECT `id_author`
+        FROM `books2authors`
+        WHERE `id_book` IN (1 2 3 4 8 24 )
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2 3 4 8 24 )' at line 3
+
+
+Дата/час - 18:03:18 - 14:21:43
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 65
+Запит - 
+        SELECT `id_author`
+        FROM `books2authors`
+        WHERE `id_book` IN (1,2,3,4,8,24,)
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 18:03:18 - 14:34:52
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 78
+Запит - 
+        SELECT *
+        FROM `authors`
+        WHERE `id` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 18:03:18 - 14:35:39
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\main.php
+Рядок - 80
+Запит - 
+        SELECT *
+        FROM `authors`
+        WHERE `id` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 19:03:18 - 14:45:31
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\books\main.php
+Рядок - 33
+Запит - 
+        SELECT *
+        FROM `books2authors`
+        WHERE `id_book` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 19:03:18 - 15:24:31
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\books\authors.php
+Рядок - 25
+Запит - 
+        SELECT *
+        FROM `books2authors`
+        WHERE `id_book` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 19:03:18 - 15:25:58
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\books\authors.php
+Рядок - 25
+Запит - 
+        SELECT *
+        FROM `books2authors`
+        WHERE `id_book` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 21:03:18 - 19:30:51
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 102
+Запит - 
+            INSERT INTO `books2authors` VALUES .implode(',', Array)
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.implode(',', Array)' at line 1
+
+
+Дата/час - 21:03:18 - 19:33:40
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 102
+Запит - 
+            INSERT INTO `books2authors` VALUES '(30,1),(30,2),(30,3)'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''(30,1),(30,2),(30,3)'' at line 1
+
+
+Дата/час - 21:03:18 - 19:34:19
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\add.php
+Рядок - 102
+Запит - 
+            INSERT INTO `books2authors` VALUES '(31,1), (31,2), (31,3)'
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''(31,1), (31,2), (31,3)'' at line 1
+
+
+Дата/час - 21:03:18 - 19:36:18
+Помилка у файлі - C:\xampp\htdocs\site1.local\modules\admin\books\show.php
+Рядок - 38
+Запит - 
+        SELECT `id`,`name`
+        FROM `authors`
+        WHERE `id` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 23:03:18 - 21:14:44
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\books\authors.php
+Рядок - 96
+Запит - 
+        SELECT `img`
+        FROM `authors`
+        WHERE `id` IN ((0,14))
+        LIMIT 1
+    
+Помилка mysqli - Operand should contain 1 column(s)
+
+
+Дата/час - 23:03:18 - 21:45:09
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\books\show.php
+Рядок - 38
+Запит - 
+        SELECT `id`,`name`
+        FROM `authors`
+        WHERE `id` IN ()
+    
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 3
+
+
+Дата/час - 29:03:18 - 11:11:55
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\comments\comment.php
+Рядок - 40
+Запит - 
+            SELECT `name`, `email`, `comment`
+            FROM `comments`
+            WHERE (int)`date` < 1522311115266;
+        
+Помилка mysqli - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'int)`date` < 1522311115266' at line 3
+
+
+Дата/час - 29:03:18 - 11:34:46
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\comments\comment.php
+Рядок - 35
+Запит - 
+            INSERT INTO `comments` SET
+            `name`     = 'проба1',
+            `email`    = 'very.nice@ukr.net',
+            `comment`  = 'qqqqqqqqqqqqqqqqqqqqq',
+            `time`     = 1522312486703
+        
+Помилка mysqli - Out of range value for column 'time' at row 1
+
+
+Дата/час - 29:03:18 - 11:35:04
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\comments\comment.php
+Рядок - 35
+Запит - 
+            INSERT INTO `comments` SET
+            `name`     = 'проба1',
+            `email`    = 'very.nice@ukr.net',
+            `comment`  = 'qqqqqqqqqqqqqqqqqqqqq',
+            `time`     = 1522312504175
+        
+Помилка mysqli - Out of range value for column 'time' at row 1
+
+
+Дата/час - 29:03:18 - 12:05:31
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\comments\comment.php
+Рядок - 35
+Запит - 
+            INSERT INTO `comments` SET
+            `name`     = 'проба1',
+            `email`    = 'very.nice@ukr.net',
+            `comment`  = 'qqqqqqqqqqqqqq',
+            `time`     = 1522314331459
+        
+Помилка mysqli - Out of range value for column 'time' at row 1
+
+
+Дата/час - 29:03:18 - 17:41:07
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\comments\comment.php
+Рядок - 36
+Запит - 
+            INSERT INTO `comments` SET
+            `name`     = 'проба1',
+            `email`    = 'very.nice@ukr.net',
+            `comment`  = 'qqqqqqqqq',
+            `date`     = '29.03.2018 17:41'
+        
+Помилка mysqli - Incorrect datetime value: '29.03.2018 17:41' for column 'date' at row 1
+
+
+Дата/час - 02:04:18 - 13:25:53
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\news\add.php
+Рядок - 31
+Запит - 
+            INSERT INTO `news` SET
+            `date`          = NOW(),
+            `title`         = 'Пробна новина',
+            `cat`           = 'Війна на сході України',
+            `description`   = 'Опис пробної новини',
+            `text`          = 'Повний текст пробної новини'
+        
+Помилка mysqli - Field 'meta_title' doesn't have a default value
+
+
+Дата/час - 02:04:18 - 13:34:13
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\news\add.php
+Рядок - 31
+Запит - 
+            INSERT INTO `news` SET
+            `date`          = NOW(),
+            `title`         = 'Пробна новина',
+            `cat`           = 'Війна на сході України',
+            `description`   = 'Опис пробної новини',
+            `text`          = 'Повний текст пробної новини'
+        
+Помилка mysqli - Field 'meta_title' doesn't have a default value
+
+
+Дата/час - 02:04:18 - 13:34:35
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\news\add.php
+Рядок - 31
+Запит - 
+            INSERT INTO `news` SET
+            `date`          = NOW(),
+            `title`         = 'Пробна новина',
+            `cat`           = 'Кримінал',
+            `description`   = 'кепрцікепцікепіцкеп',
+            `text`          = 'рціу5рц5р6ц56р'
+        
+Помилка mysqli - Field 'meta_title' doesn't have a default value
+
+
+Дата/час - 02:04:18 - 13:38:00
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\news\add.php
+Рядок - 32
+Запит - 
+            INSERT INTO `news` SET
+            `date`          = NOW(),
+            `title`         = 'Пробна новина',
+            `cat`           = 'Кримінал',
+            `description`   = 'кепрцікепцікепіцкеп',
+            `text`          = 'рціу5рц5р6ц56р',
+            `mete_title`    = 'Пробна новина'
+        
+Помилка mysqli - Unknown column 'mete_title' in 'field list'
+
+
+Дата/час - 02:04:18 - 13:38:15
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\news\add.php
+Рядок - 32
+Запит - 
+            INSERT INTO `news` SET
+            `date`          = NOW(),
+            `title`         = 'Пробна новина',
+            `cat`           = 'Кримінал',
+            `description`   = 'кепрцікепцікепіцкеп',
+            `text`          = 'рціу5рц5р6ц56р',
+            `meta_title`    = 'Пробна новина'
+        
+Помилка mysqli - Field 'meta_keywords' doesn't have a default value
+
+
+Дата/час - 09:04:18 - 21:17:59
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\admin\users\add.php
+Рядок - 98
+Запит - 
+                INSERT INTO `users` SET
+                `login`           = 'Proba',
+                `password`        = 'DIvPOXvPVU036',
+                `name`            = 'Proba',
+                `email`           = 'proba@ukr.net',
+                `age`             = '44',
+                `hash`            = 'DIRE8iZtcBBQk',
+                `active`          = 'активний',
+                `access`          = 'moderator',
+                `remote_addr`     = '127.0.0.1',
+                `http_user_agent` = 'Mozzilla',
+                `access_chat`     = 'дозволено'
+            
+Помилка mysqli - Field 'img' doesn't have a default value
+
+
+Дата/час - 22:04:18 - 22:26:44
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 26
+Запит - 
+            INSERT INTO `chat` SET
+            `date` = NOW,
+            `user` = 'Sergij',
+            `text` = 'asde'
+        
+Помилка mysqli - Unknown column 'NOW' in 'field list'
+
+
+Дата/час - 22:04:18 - 22:28:05
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 26
+Запит - 
+            INSERT INTO `chat` SET
+            `date` = NOW(),
+            `user` = 'Sergij',
+            `text` = 'asde'
+        
+Помилка mysqli - Field 'img' doesn't have a default value
+
+
+Дата/час - 14:06:18 - 15:09:32
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:09:36
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:09:36
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:09:36
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:09:37
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:09:37
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:10:30
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:11:11
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:12:22
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:13:53
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+
+Дата/час - 14:06:18 - 15:14:04
+Помилка у файлі - C:\OSPanel\domains\site1.local\modules\chat\main.php
+Рядок - 9
+Запит - 
+        SELECT `access_chat`
+        FROM `chat`
+        WHERE `id` = 56
+    
+Помилка mysqli - Unknown column 'access_chat' in 'field list'
+
+

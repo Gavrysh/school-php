@@ -1,0 +1,233 @@
+@charset "utf-8";
+
+/* скидання стилів браузера */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1.2;
+}
+ol { 
+    padding-left: 1.4em;
+    list-style: decimal;
+}
+ul {
+    padding-left: 1.4em;
+    list-style: square;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+} 
+/* кінець коду по скиданню стилей браузерів */ 
+
+* {
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(54,54,54);
+}
+
+a:visited {
+    color: #900; 
+}
+
+a:hover {
+    color: rgb(35,146,232);
+    cursor: pointer;
+}
+
+a:active {
+    color: #B2F511; 
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    font-family: 'Yanone Kaffeesatz', Arial, sans-serif;
+    font-size: 62.5%;
+    color: rgb(173,174,175);
+}
+
+.clear {
+    clear: both;
+}
+
+h1 {
+    font: 700 6em 'Montserrat', Arial, sans-serif;
+}
+
+h2 {
+    font: 400 3em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+h3 {
+    font: 400 4em 'Yanone Kaffeesatz', Arial, sans-serif;
+    color: rgb(17,17,17);
+}
+
+h4 {
+    font: 600 2em 'Poppins', Arial, sans-serif;
+    color: rgb(54,54,54);
+}
+
+p {
+    font: 300 1.2em 'Poppins', Arial, sans-serif;
+    line-height: 1.4;
+}
+
+img {
+    max-width: 100%; 
+}
+
+.navigation-top {
+    background-color: rgb(241,243,244);
+    border-bottom: 1px solid rgb(209,211,212);
+}
+
+.navigation-top-content-wrapper,
+.content-top,
+.content-middle-gallery,
+.content-bottom,
+.footer-wrapper,
+.wrapper-applications {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.navigation-top-content-wrapper-left {
+    float: left;
+}
+
+.navigation-top-content-wrapper-right {
+    float: right;
+    padding: 20px 0 20px;
+    font: 400 2.2em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+.nav {
+    display: inline-block;
+    list-style-type: none;
+    padding: 20px 0 20px;
+    font: 400 2.2em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 0.8em;
+    color: rgb(54,54,54);
+}
+
+.nav a:hover{
+    cursor: pointer;
+    color: rgb(35,146,232);
+}
+
+.nav li:first-of-type a {
+    color: rgb(35,146,232);
+}
+
+.footer {
+    width: 100%;
+    height: 150px;
+    background: url(/img/foo_bg.jpg) center center no-repeat;
+    background-size: cover;
+    color: rgb(255,255,255);
+}
+
+.footer-left {
+    display: inline-block;
+    width: 30%;
+    padding-top: 3em;
+}
+
+.footer-left img {
+    float: left;
+    margin: 1.2em 2em 0 0;
+}
+
+.footer-left h1,
+.footer-left h2 {
+    color: rgb(255,255,255);
+}
+
+.footer-left h1 {
+    font: 700 5em 'Montserrat', Arial, sans-serif;
+}
+
+.footer-left h2 {
+    font: 400 2.5em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+.footer-right {
+    float: right;
+    width: 70%;
+    text-align: right;
+}
+
+.footer-right .nav {
+    margin: 1em 0 .5em;
+}
+
+.footer-right ul li:last-of-type a {
+    margin-right: 0;
+}
+
+.footer-right .nav a,
+.footer-right a {
+    color: rgb(255,255,255);
+}
+
+.footer-right .nav a:hover {
+    color: rgb(35,146,232);
+}
+
+.footer-right .footer-content-copyright {
+    float: right;
+    font: 300 1.3em Tahoma, Geneva, sans-serif;
+}
+
+.paginator a {
+    border: solid 1px;
+    padding: 0 10px;
+    margin: 5px 2px;
+}
+.paginator p {
+    text-align: center;
+}
+.paginator .disabled-link {
+    pointer-events: none;
+}
+.paginator .active-link {
+    background-color: #708090;
+    pointer-events: none;
+}
+.paginator .ellipses-show {
+    display: inline-block;
+    pointer-events: none;
+}
+.paginator .ellipses-hide {
+    display: none;
+}

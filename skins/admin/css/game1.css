@@ -1,0 +1,16 @@
+/* Гра */
+.div-content {
+    width: 60%;
+    margin: 20px auto 0px;
+}
+.table-state {
+    width: 100%;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table-state td {
+    font-size: 24px;
+    color: #FF0000;
+    vertical-align: top;
+    text-align: center;
+}

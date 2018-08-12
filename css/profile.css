@@ -1,0 +1,15 @@
+.profile p {
+    color: #111111;
+    font-size: .8em;
+}
+.profile p>span {
+    font-size: 1em;
+}
+.profile-name-user,
+.profile-user-contacts,
+.profile-user-other,
+.profile-user-other img,
+.profile-user-block-image,
+.profile-user-block-image p {
+    margin: .5em 0;
+}

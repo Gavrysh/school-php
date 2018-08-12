@@ -1,0 +1,24 @@
+/*Коментарі розділ*/
+.comments-form,
+.comments-show {
+    margin: 50px auto;
+    width: 100%;
+    word-wrap: break-word;
+}
+.comments-once {
+    margin: 20px 0px;
+    background-color: #F1F3F4;
+}
+.comments-out-name {
+    font-size: 1em;
+    color: rgb(17,17,17);
+}
+.comments-out-date {
+    font-size: .5em;
+    color: rgb(54,54,54);
+    padding: 1em 0;
+}
+.comments-out-text {
+    font-size: .7em;
+    color: rgb(173,174,175);
+}
