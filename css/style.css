@@ -1,0 +1,507 @@
+@charset "utf-8";
+
+/* скидання стилів браузера */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1.2;
+}
+ol { 
+    padding-left: 1.4em;
+    list-style: decimal;
+}
+ul {
+    padding-left: 1.4em;
+    list-style: square;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+} 
+/* кінець коду по скиданню стилей браузерів */ 
+
+* {
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(54,54,54);
+}
+
+a:visited {
+    color: #900; 
+}
+
+a:hover {
+    color: rgb(35,146,232);
+    cursor: pointer;
+}
+
+a:active {
+    color: #B2F511; 
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    font-family: 'Yanone Kaffeesatz', Arial, sans-serif;
+    font-size: 62.5%;
+    color: rgb(173,174,175);
+}
+
+.clear {
+    clear: both;
+}
+
+h1 {
+    font: 700 6em 'Montserrat', Arial, sans-serif;
+}
+
+h2 {
+    font: 400 3em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+h3 {
+    font: 400 4em 'Yanone Kaffeesatz', Arial, sans-serif;
+    color: rgb(17,17,17);
+}
+
+h4 {
+    font: 600 2em 'Poppins', Arial, sans-serif;
+    color: rgb(54,54,54);
+}
+
+p {
+    font: 300 1.2em 'Poppins', Arial, sans-serif;
+    line-height: 1.4;
+}
+
+img {
+    max-width: 100%; 
+}
+
+.slider {
+    display: flex;
+    width: 100%;
+    height: 638px;
+    background: url(../img/picture1.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.slider-logo {
+    margin: auto;
+    color: rgb(255,255,255);
+    text-align: center;
+}
+
+.navigation-top {
+    background-color: rgb(241,243,244);
+    border-bottom: 1px solid rgb(209,211,212);
+}
+
+.navigation-top-content-wrapper,
+.content-top,
+.content-middle-gallery,
+.content-bottom,
+.footer-wrapper,
+.wrapper-applications {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.navigation-top-content-wrapper-left {
+    float: left;
+}
+
+.navigation-top-content-wrapper-right {
+    float: right;
+    padding: 20px 0 20px;
+    font: 400 2.2em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+.nav {
+    display: inline-block;
+    list-style-type: none;
+    padding: 20px 0 20px;
+    font: 400 2.2em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 0.8em;
+    color: rgb(54,54,54);
+}
+
+.nav a:hover{
+    cursor: pointer;
+    color: rgb(35,146,232);
+}
+
+.nav li:first-of-type a {
+    color: rgb(35,146,232);
+}
+
+.content-top,
+.content-bottom {
+    margin-bottom: 6.5em;
+}
+
+.content-top-left,
+.content-top-center,
+.content-top-right,
+.content-bottom-left,
+.content-bottom-center,
+.content-bottom-right {
+    float: left;
+    width: 31.33333333333333%;
+}
+
+.content-top p a {
+    color: rgb(35,146,232);
+}
+
+.content-top h3 a,
+.content-bottom h3 a {
+    color: rgb(17,17,17);
+}
+
+.content-top-center,
+.content-bottom-center {
+    margin: 0 3%;
+}
+
+.content-top h3,
+.content-bottom h3 {
+    border-bottom: 1px solid rgb(212,214,215);
+    padding: 1.6em 0 .2em;
+    margin-bottom: .5em;
+}
+
+.content-top-center img,
+.content-top-right img {
+    float: left;
+    margin-right: 2em;
+}
+
+.content-top h4 {
+    margin-top: -.4em;
+}
+
+.content-top-center p,
+.content-top-right p {
+    padding-bottom: 1.5em;
+}
+
+.content-middle {
+    width: 100%;
+    background: url(../img/page1_bg1.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.content-middle h3 {
+    color: rgb(255,255,255);
+    text-align: center;
+    padding: 1.2em 0 1em;
+}
+
+.content-middle-gallery div {
+    float: left;
+    width: 141px;
+    height: 98px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 .9em .9em 0;
+}
+
+.content-middle-gallery a:last-of-type div {
+    margin-bottom: 5em;
+}
+
+.content-middle-gallery-img01 {
+    background-image: url(../img/gal_medium01.jpg);
+}
+
+.content-middle-gallery-img02 {
+    background-image: url(../img/gal_medium02.jpg);
+}
+
+.content-middle-gallery-img03 {
+    background-image: url(../img/gal_medium03.jpg);
+}
+
+.content-middle-gallery-img04 {
+    background-image: url(../img/gal_medium04.jpg);
+}
+
+.content-middle-gallery-img05 {
+    background-image: url(../img/gal_medium05.jpg);
+}
+
+.content-middle-gallery-img06 {
+    background-image: url(../img/gal_medium06.jpg);
+}
+
+.content-middle-gallery-img07 {
+    background-image: url(../img/gal_medium07.jpg);
+}
+
+.content-middle-gallery-img08 {
+    background-image: url(../img/gal_medium08.jpg);
+}
+
+.content-middle-gallery-img09 {
+    background-image: url(../img/gal_medium09.jpg);
+}
+
+.content-middle-gallery-img10 {
+    background-image: url(../img/gal_medium10.jpg);
+}
+
+.content-middle-gallery-img11 {
+    background-image: url(../img/gal_medium11.jpg);
+}
+
+.content-middle-gallery-img12 {
+    background-image: url(../img/gal_medium12.jpg);
+}
+
+.content-middle-gallery-img13 {
+    background-image: url(../img/gal_medium13.jpg);
+}
+
+.content-middle-gallery-img14 {
+    background-image: url(../img/gal_medium14.jpg);
+}
+
+.content-middle-gallery-img15 {
+    background-image: url(../img/gal_medium15.jpg);
+}
+
+.content-middle-gallery-img16 {
+    background-image: url(../img/gal_medium16.jpg);
+}
+
+.content-middle-gallery-img17 {
+    background-image: url(../img/gal_medium17.jpg);
+}
+
+.content-middle-gallery-img18 {
+    background-image: url(../img/gal_medium18.jpg);
+}
+
+.content-middle-gallery-img19 {
+    background-image: url(../img/gal_medium19.jpg);
+}
+
+.content-middle-gallery-img20 {
+    background-image: url(../img/gal_medium20.jpg);
+}
+
+.content-middle-gallery-img21 {
+    background-image: url(../img/gal_medium21.jpg);
+}
+
+.content-middle-gallery-img22 {
+    background-image: url(../img/gal_medium22.jpg);
+}
+
+.content-middle-gallery-img23 {
+    background-image: url(../img/gal_medium23.jpg);
+}
+
+.content-middle-gallery-img24 {
+    background-image: url(../img/gal_medium24.jpg);
+}
+
+.content-bottom-left p {
+    background-color: rgb(241,243,244);
+    border: 1px solid rgb(209,211,212);
+    border-radius: .5em;
+    padding: 1.5em 1.5em 0.8em;
+}
+
+.content-bottom-left img {
+    float: left;
+    margin-right: 2em;
+    margin-top: 1em;
+}
+
+.content-bottom-left p a {
+    display: inline-block;
+    color: rgb(17,17,17);
+    font: 600 1.5em 'Poppins', Arial, sans-serif;
+    padding-top: 1em;
+}
+
+.content-bottom-left p a:hover {
+    color: rgb(35,146,232);
+}
+
+.content-bottom-center-galery {
+    margin: 0 auto;
+}
+
+.content-bottom-center-galery div {
+    float: left;
+    width: 87px;
+    height: 65px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 0.9em 0.9em 0;
+}
+
+.content-bottom-center-galery-img01 {
+    background-image: url(../img/gal_small03.jpg);
+}
+
+.content-bottom-center-galery-img02 {
+    background-image: url(../img/gal_small04.jpg);
+}
+
+.content-bottom-center-galery-img03 {
+    background-image: url(../img/gal_small05.jpg);
+}
+
+.content-bottom-center-galery .content-bottom-center-galery-img04 {
+    background-image: url(../img/gal_small06.jpg);
+    margin-right: 0;
+}
+
+.content-bottom-center-galery-img05 {
+    background-image: url(../img/gal_small07.jpg);
+}
+
+.content-bottom-center-galery-img06 {
+    background-image: url(../img/gal_small08.jpg);
+}
+
+.content-bottom-center-galery-img07 {
+    background-image: url(../img/gal_small09.jpg);
+}
+
+.content-bottom-center-galery .content-bottom-center-galery-img08 {
+    background-image: url(../img/gal_small10.jpg);
+    margin-right: 0;
+}
+
+.content-bottom-right ul {
+    font: 300 1.2em "Poppins",Arial,sans-serif;
+    margin-top: 1.5em;
+    margin-left: -1.5em;
+    list-style: none;
+}
+
+.content-bottom-right ul a {
+    color: rgb(35,146,232);
+    text-decoration: none;
+    padding-left: 1.3em;
+    background: url(../img/list_arrow.png) no-repeat left center;
+}
+
+.content-bottom-right ul a:hover {
+    color: rgb(173,174,175);
+}
+
+.footer {
+    width: 100%;
+    height: 150px;
+    background: url(../img/foo_bg.jpg) center center no-repeat;
+    background-size: cover;
+    color: rgb(255,255,255);
+}
+
+.footer-left {
+    display: inline-block;
+    width: 30%;
+    padding-top: 3em;
+}
+
+.footer-left img {
+    float: left;
+    margin: 1.2em 2em 0 0;
+}
+
+.footer-left h1,
+.footer-left h2 {
+    color: rgb(255,255,255);
+}
+
+.footer-left h1 {
+    font: 700 5em 'Montserrat', Arial, sans-serif;
+}
+
+.footer-left h2 {
+    font: 400 2.5em 'Yanone Kaffeesatz', Arial, sans-serif;
+}
+
+.footer-right {
+    float: right;
+    width: 70%;
+    text-align: right;
+}
+
+.footer-right .nav {
+    margin: 1em 0 .5em;
+}
+
+.footer-right ul li:last-of-type a {
+    margin-right: 0;
+}
+
+.footer-right .nav a,
+.footer-right a {
+    color: rgb(255,255,255);
+}
+
+.footer-right .nav a:hover {
+    color: rgb(35,146,232);
+}
+
+.footer-right .footer-content-copyright {
+    float: right;
+    font: 300 1.3em Tahoma, Geneva, sans-serif;
+}
+.paginator a {
+    border: solid 1px;
+    padding: 0 10px;
+    margin: 5px 2px;
+}
+.paginator p {
+    text-align: center;
+}
+.paginator .disabled-link {
+    pointer-events: none;
+}
+.paginator .active-link {
+    background-color: #708090;
+    pointer-events: none;
+}
+.paginator .ellipses-show {
+    display: inline-block;
+    pointer-events: none;
+}
+.paginator .ellipses-hide {
+    display: none;
+}

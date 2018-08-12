@@ -1,0 +1,146 @@
+/* Товари */
+.goods {
+    color: #111111;
+}
+.inner-wrap.goods {
+    padding: 1em 1em 0;
+}
+.goods-header {
+    font-size: 16px;
+    color: #251A04;
+    font-weight: 600;
+}
+.goods-header a {
+    text-decoration: none;
+    color: #363636;
+}
+.goods-main-btn-add {
+    margin-bottom: 1em;
+}
+.goods-header p {
+    font-size: 1em;
+    padding-top: 2em;
+}
+.goods-header p a {
+    font-size: .7em;
+    color: rgb(35, 146, 232);
+}
+.goods-actions {
+    margin-top: 30px;
+}
+.goods-wrapper1 {
+    margin-top: 20px;
+    word-wrap: break-word;
+}
+.goods-left {
+    text-align: left;
+    float: left;
+    color: #2392E8;
+}
+.goods-right {
+    text-align: right;
+    float: right;
+    color: #2392E8;
+}
+.goods-wrapper3 {
+    float: left;
+    width: 100%;
+    margin: 20px 0px;
+}
+.inner-wrap.goods-show {
+    padding: 1em;
+}
+.left-side {
+    width: 40%;
+    float: left;
+}
+.right-side {
+    width: 60%;
+    float: right;
+}
+.right-side-img {
+    margin-left: 20px;
+}
+.goods-show-wrapper {
+    width: 80%;
+    margin: 0px auto;
+    background-color: #DFDFDF;
+    word-wrap: break-word;
+}
+.goods-show-content img {
+    float: left;
+    margin: 30px;
+    border: 1px solid #DFDFDF;
+}
+.goods-show-content-header {
+    float: left;
+}
+.goods-show-content-code {
+    float: left;
+}
+.goods-show-content-price {
+    float: left;
+}
+.goods-show-left-side {
+    width: 20%;
+    float: left;
+}
+.goods-show-central-side {
+    width: 60%;
+    float: left;
+}
+.goods-show-right-side {
+    width: 20%;
+    float: right;
+}
+.goods-show-img {
+    float: left;
+}
+.goods-show-description {
+    border-top: .1em solid #D4D4D4;
+    border-bottom: .1em solid #D4D4D4;
+    margin: 1em 0;
+    padding: 1em 0;
+}
+.goods-show-dw-left,
+.goods-show-dw-right {
+    width: 49%;
+    float: left;
+}
+.goods-show-dw-left {
+    padding-right: 1em;
+}
+.goods-show-dw-right {
+    padding-left: 1em;
+}
+.inner-wrap.goods-show h2 {
+    color: #111111;
+}
+.inner-wrap.goods-show p > span {
+    color: #111111;
+    font-size: .7em;
+}
+.inner-wrap.goods-show h5 {
+    color: #111111;
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+.goods-show-description p {
+    color: #111111;
+    font-size: .7em;
+}
+.goods-show-dw p {
+    color: #111111;
+    font-size: .5em;
+}
+.goods-show-footer {
+    margin-top: 1em;
+    color: #111111;
+    font-size: .6em;
+}
+.image-goods {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 0 1em 1em 0;
+}

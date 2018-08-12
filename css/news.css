@@ -1,0 +1,109 @@
+/* Новини */
+.news-main {
+    margin: 50px auto;
+    width: 70%;
+    background-color: #FFFFFF;
+    color: #999999;
+    word-wrap: break-word;
+}
+.news-wrapper {
+    border-bottom: .1em solid #D4D4D4;
+    margin-bottom: 1em;
+}
+.news-first-row-right {
+    float: right;
+}
+.wrapper-applications .news-cat-select {
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+}
+.wrapper-applications .news-third-row input[type="text"] {
+    width: 85%;
+    float: left;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+.wrapper-applications .news-third-row input[type="submit"] {
+    width: 15%;
+    float: right;
+}
+.news-date {
+    font-size: 1em;
+    color: #2392E8;
+    margin-bottom: .5em;
+}
+.news-time {
+    float: left;
+    width: 7%;
+    font-size: .5em;
+    font-weight: 600;
+    color: #111111;
+    padding-top: .8em;
+}
+.news-content {
+    float: left;
+    width: 93%;
+}
+.inner-wrap .news-content a {
+    color: #111111;
+    font-weight: 600;
+}
+.inner-wrap .news-content p {
+    color: #111111;
+    font-size: .7em;
+    margin: 1em 0;
+}
+.news-show-date {
+    float: left;
+    width: 15%;
+    font-size: .7em;
+}
+.news-show-date a {
+    display: inline-block;
+    font-size: .8em;
+    margin-bottom: 1em;
+}
+.news-show-title {
+    float: left;
+    width: 85%;
+}
+.news-show-title h2 {
+    color: #111111;
+}
+.news-show-title p {
+    font-size: .7em;
+    color: #111111;
+    margin-bottom: 1em;
+}
+.news-show-content-left {
+    float: left;
+    width: 15%;
+    min-height: 10em;
+}
+.news-show-content-center {
+    float: left;
+    width: 60%;
+    font-size: .7em;
+    color: #111111;
+    border-top: .1em solid #D4D4D4;
+    border-bottom: .1em solid #D4D4D4;
+    padding: 1em 0;
+}
+.news-show-content-right {
+    float: left;
+    width: 25%;
+    min-height: 10em;
+}
+.news-show-footer {
+    margin-top: 1em;
+}
+.inner-wrap .news-show-footer a {
+    color: #111111;
+    font-size: .6em;
+}
+.paginator a {
+    border: solid 1px;
+    padding: 0 10px;
+    margin: 5px 2px;
+}
