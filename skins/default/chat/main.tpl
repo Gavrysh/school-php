@@ -5,12 +5,16 @@
   }
   setInterval(loadNotice, 3000);
 </script>
+
 <div class="wrapper-applications">
+
   <h1>Чат<span>Cпілкування відвідувачив сайту у реальному часі. Можливість спілкування з'являється при аутентифікації на цьому сайті</span></h1>
+
   <div>
     <span id="inform" class="information"><?php if (isset($errors['user'])) { echo '<p>'.$errors['user'].'</p>'; } ?></span>
     <hr>
   </div>
+
   <div class="chat-list-users">
     <div class="inner-wrap">
       <?php
@@ -20,6 +24,7 @@
       ?>
     </div>
   </div>
+
   <div class="chat">
     <div id="chat-text" class="inner-wrap">
       <?php
@@ -33,6 +38,7 @@
     </div>
   </div>
   <div class="clear"></div>
+
   <div>
     <?php
       for ($i = 1; $i <=7; ++$i) { ?>
@@ -40,10 +46,12 @@
       <?php }
     ?>
   </div>
+
   <form action="" method="post">
     <div id="show-info" class="information"></div>
     <span class="information"><?php if (isset($errors['notice'])) { echo $errors['notice']; } ?></span>
     <label>Повідомлення<input id="notice" type="text" name="notice"></label>
     <input id="add-notice" type="submit" name="submit" value="Надіслати">
   </form>
+
 </div>

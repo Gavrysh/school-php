@@ -42,7 +42,6 @@
           <li><a href="/admin/news">News</a></li>
           <li><a href="/admin/goods">Goods</a></li>
           <li><a href="/admin/books" class="booksLink">Books</a></li>
-          <li><a href="/admin/chat">Chat</a></li>
           <li><a href="/admin/users">Users</a></li>
           <?php } ?>
         </ul>
