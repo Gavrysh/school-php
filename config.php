@@ -4,8 +4,8 @@ class Core {
     static $COPYRIGHT  = 2015;
     static $SKIN       = 'default';
     static $CONT       = 'modules';
-    static $DB_NAME    = 'main';
-    static $DB_LOGIN   = 'SeGa';
+    static $DB_NAME    = 'school';
+    static $DB_LOGIN   = 'gases';
     static $DB_PASS    = 'bdoZY3';
     static $DB_LOCAL   = 'localhost';
     static $DOMAIN     = __DIR__;
