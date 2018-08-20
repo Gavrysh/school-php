@@ -153,6 +153,7 @@ function addComment()
     return false;
 }
 
+/*----------------------------------- Chat ----------------------------------------------*/
 function chekNotice()
 {
     var out = true;
@@ -190,6 +191,7 @@ function addNotice()
             success: function(msg) {
                 var response = JSON.parse(msg);
                 if (response.status) {
+                    alert('Запис доданий');
                     clearInnerHTML('chat-text');
                     for (var key in response) {
                         if (key != 'status') {
@@ -228,8 +230,8 @@ function loadNotice()
         },
         success: function(msg)
         {
-            var response = JSON.parse(msg);
             clearInnerHTML('chat-text');
+            var response = JSON.parse(msg);
             for (var key in response) {
                 x.getElementById('chat-text').innerHTML = x.getElementById('chat-text').innerHTML + noticeCheckBox(response.access) + '<span class="notice-date">'+response[key].date+'</span> <span class="notice-user">'+response[key].user+'</span><br><span class="notice-text">'+response[key].text+'</span><br>';
             }

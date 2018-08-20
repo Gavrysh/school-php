@@ -5,6 +5,7 @@ function smile($st)
 {
     return preg_replace('#\[:ch([\d]+):\]#uis', '<img src="/skins/default/img/ch$1.png" alt="smile" width="30px" height="30px">', $st);
 }
+
 function accessChat()
 {
     $res = q("
@@ -88,7 +89,7 @@ if (isset($_POST['notice'])) {
         }
         if (3 > mb_strlen($_POST['notice'])) {
             $errors['notice'] = 'Повідомлення у чат від 3 символів';
-        }    
+        }
     }
 
     if (count($errors)) {
@@ -112,6 +113,6 @@ if (isset($_POST['notice'])) {
 
 if(isset($_POST['req'])) {
     loadNotice();
-    echo json_encode($output);
+    echo json_encode($outChat);
     exit;
 }
