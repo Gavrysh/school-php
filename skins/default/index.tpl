@@ -11,6 +11,7 @@
   <?php if(array_key_exists($_GET['module'], Core::$CSS)) { echo Core::$CSS[$_GET['module']]."\n"; } ?>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="/skins/default/js/scripts_v1.js?v=1"></script>
+  <?php if(array_key_exists($_GET['module'], Core::$JS)) { echo Core::$JS[$_GET['module']]."\n"; } ?>
 </head>
 <body>
 

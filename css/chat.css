@@ -1,16 +1,15 @@
 .chat-list-users {
     float: left;
-    width: 30%
+    width: 30%;
+    font-size: 12px;
+    color: #251A04;
+    min-height: 20em;
 }
 .chat {
     float: right;
     width: 70%;
     max-height: 300px;
     overflow-y: scroll;
-}
-.chat-list-users {
-    font-size: 12px;
-    color: #251A04;
 }
 .notice-date {
     font-size: 10px;
