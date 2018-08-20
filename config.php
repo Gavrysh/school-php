@@ -10,6 +10,8 @@ class Core {
     static $DB_LOCAL   = 'localhost';
     static $DOMAIN     = __DIR__;
     static $JS         = array(
+        'comments' => '<script src="/skins/default/js/comments_v1.js?v=1"></script>',
+        'chat'     => '<script src="/skins/default/js/chat_v1.js?v=1"></script>'
     );
     static $JS_ADMIN   = array(
     );
