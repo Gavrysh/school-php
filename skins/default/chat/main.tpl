@@ -9,7 +9,13 @@
         </div>
         <div class="clear"></div>
 
-        <div class="smiles"></div>
+        <div class="smiles">
+            <?php
+                for ($i = 1; $i <=7; ++$i) : ?>
+                    <img id="ch0<?=$i?>" src="/skins/default/img/ch0<?=$i?>.png" alt="smile" width="30px" height="30px">
+                <?php endfor;
+            ?>
+        </div>
 
         <form action="" method="post">
             <div id="show-info" class="information"></div>
