@@ -1,6 +1,5 @@
 <script>
-  window.onload = function()
-  {
+  window.onload = function() {
     document.getElementById('add-comment').onclick = addComment;
   }
 </script>
