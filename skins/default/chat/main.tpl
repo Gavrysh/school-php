@@ -1,5 +1,6 @@
 <script>
     window.onload = function () {
+        getNotice();
         document.getElementById('add-notice').onclick = addNotice;
     }
 </script>
@@ -17,7 +18,7 @@
         <div class="smiles">
             <?php
                 for ($i = 1; $i <=7; ++$i) : ?>
-                    <img id="ch0<?=$i?>" src="/skins/default/img/ch0<?=$i?>.png" alt="smile" width="30px" height="30px">
+                    <img id="ch0<?= $i ?>" src="/skins/default/img/ch0<?= $i ?>.png" alt="smile" width="30px" height="30px" onclick="addSmile(this.id)">
                 <?php endfor;
             ?>
         </div>

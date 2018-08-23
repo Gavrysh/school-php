@@ -22,3 +22,14 @@ function addNotice() {
     }
     return false;
 }
+
+function getNotice() {
+    //alert('Hi');
+}
+
+/**
+ * Додає код вибраного смайлу до строки, яка готується до відправки у чат
+ */
+function addSmile(value) {
+    $('#notice').val($('#notice').val() + '[:' + value + ':]');
+}
